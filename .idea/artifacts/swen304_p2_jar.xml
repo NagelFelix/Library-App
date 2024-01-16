@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swen304-p2.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swen304_p2_jar</output-path>
+    <root id="archive" name="SWEN304-PROJECT2.jar">
+      <element id="module-output" name="SWEN304-PROJECT2" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/postgresql-42.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
